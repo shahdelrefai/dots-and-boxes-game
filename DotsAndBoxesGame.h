@@ -17,7 +17,7 @@ using namespace std;
 
 class DotsAndBoxesGame {
 public:
-    enum Menu{MainMenu, StartGameMenu, LoadGameMenu, TopTenMenu, Exit};
+    enum Menu{MainMenu, StartGameMenu, LoadGameMenu, Exit};
     Menu MyMenu = MainMenu;
 
     void ChooseMenu(int page);

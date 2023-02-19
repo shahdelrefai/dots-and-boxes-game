@@ -49,7 +49,7 @@ void DotsAndBoxesGame::LoadGame()
 
 void DotsAndBoxesGame::ChooseMenu(int page)
 {
-    if(page < 1 or page > 4)
+    if(page < 1 or page > 3)
     {
         cout << "Choose a valid input.\n";
         return;
@@ -95,8 +95,7 @@ void DotsAndBoxesGame::RunMainMenu()
     cout << endl
          << " 1 - Start Game.\n"
          << " 2 - Load Game.\n"
-         << " 3 - Top 10 players.\n"
-         << " 4 - Exit.\n"
+         << " 3 - Exit.\n"
          << " Enter your choice and press return: ";
     cin >> page;
     this->ChooseMenu(int(page - '0'));
