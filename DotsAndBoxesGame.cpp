@@ -159,8 +159,7 @@ void DotsAndBoxesGame::RunMenu()
                 exitLoop = true;
                 break;
             case Exit:
-                exitLoop = true;
-                break;
+                exit(0);
             default:
                 this->MyMenu = MainMenu;
                 break;
