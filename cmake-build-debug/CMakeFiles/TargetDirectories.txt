@@ -1,3 +1,0 @@
-/Users/shahdelrefai/CLionProjects/Dots and Boxes/cmake-build-debug/CMakeFiles/Dots_and_Boxes.dir
-/Users/shahdelrefai/CLionProjects/Dots and Boxes/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shahdelrefai/CLionProjects/Dots and Boxes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
