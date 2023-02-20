@@ -36,4 +36,4 @@ Starting with an empty grid of dots, two players take turns adding a single hori
 \
 Feedback is highly appreciated.
 ##
-> Future Update to include : Human Vs Computer Mode, Larger Grid size.     
+> Future Update to include : Human Vs Computer Mode - Larger Grid size.     
